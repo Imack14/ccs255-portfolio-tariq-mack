@@ -19,16 +19,16 @@ This course didn’t just challenge me — it reshaped the way I think about pro
 
 This repository includes two major deliverables from CS-255 that highlight my journey through the software development lifecycle:
 
-Business Requirements Document (Project One): `DriverPass_Business_Requirement-TariqMack (2).docx`  
--System Design Document (Project Two): `DriverPass_System.pdf`
+Business Requirements Document (Project One): `
+-System Design Document (Project Two): 
 
 Together, these documents represent the foundation of good system architecture: understanding the client’s needs, translating them into specific technical requirements, and modeling out how a real system should work to meet those goals. These artifacts reflect the entire system analysis and design lifecycle, from problem discovery to technical architecture planning.
 
 ---
 
-## 💬 Reflective Summary
+ Reflective Summary
 
-### What was the DriverPass project and who was the client?
+ What was the DriverPass project and who was the client?
 
 The DriverPass project simulated a real-world software development scenario. Our client, DriverPass, wanted a robust online learning platform to help students prepare for their DMV driving exams. The system needed to offer realistic practice exams, allow students to schedule on-the-road training sessions, and provide instructors and managers with tools for monitoring progress and managing schedules. It was an end-to-end platform involving multiple user types and workflows — a perfect use case to apply what we learned about systems analysis.
 
@@ -68,13 +68,6 @@ In the future, I will rely heavily on Angela Zhang’s approach to design docume
 
 ---
 
-## ✅ Submission Checklist
 
-- [x] Business Requirements Document for Project One (DriverPass)
-- [x] System Design Document for Project Two (DriverPass)
-- [x] README.md updated with project reflection and course experience
-- [x] GitHub Repository created and shared with instructor
-
----
 
 This portfolio entry is more than a submission — it’s a statement of how far I’ve come as a software engineering student. CS-255 has challenged me, changed how I design
